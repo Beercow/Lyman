@@ -5,3 +5,4 @@ Another challenge with writing cstruct files lies in the log files themselves. T
 
 This is where Lyman becomes invaluable. Lyman manages all these complexities, allowing users to focus on finding data rather than deciphering the intricacies of the log file format. By using Lyman, a more robust solution for parsing OneDrive logs can be developed, contributing back to the ODEFiles repository [Beercow/ODEFiles (github.com)](https://github.com/Beercow/ODEFiles).
 
+![](.\Images\Lyman.png)
